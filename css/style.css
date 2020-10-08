@@ -1,0 +1,22 @@
+html {
+  background-color: bisque;
+}
+nav img{
+  display: inline-block;
+}
+#logo-cont, .nav-item {
+  display: inline-block;
+  border: 5px solid blueviolet;
+}
+#navbarUL {
+  border: 4px solid yellow;
+  display:inline-block;
+  padding-right: 40px/*   width: 700px;*/
+  padding: 10px;
+}
+/* ul {
+  border: 5px solid blueviolet;
+  display: inline-block;
+  float: left;
+  padding: 5px;
+} */
